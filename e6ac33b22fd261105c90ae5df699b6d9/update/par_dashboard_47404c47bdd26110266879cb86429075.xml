@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard">
+    <par_dashboard action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <certified>false</certified>
+        <description/>
+        <experience/>
+        <name>Collection Tracker Workspace</name>
+        <sys_class_name>par_dashboard</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-23 16:09:46</sys_created_on>
+        <sys_id>47404c47bdd26110266879cb86429075</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Collection Tracker Workspace</sys_name>
+        <sys_package display_value="To Do App" source="x_1046141_to_do_0">e6ac33b22fd261105c90ae5df699b6d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do App">e6ac33b22fd261105c90ae5df699b6d9</sys_scope>
+        <sys_update_name>par_dashboard_47404c47bdd26110266879cb86429075</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-23 16:09:46</sys_updated_on>
+        <sys_ux_app_config/>
+        <sys_ux_macroponent/>
+        <sys_ux_screen/>
+        <sys_ux_screen_type/>
+    </par_dashboard>
+</record_update>
